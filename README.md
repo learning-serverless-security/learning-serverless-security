@@ -62,7 +62,10 @@ In this chapter, you will shift your focus to Google Cloud and explore how attac
 
 In this chapter, you’ll dive deeper into how attackers exploit misconfigurations and code injection vulnerabilities in event-driven file-processing applications in Google Cloud. You’ll also examine what works and what doesn’t when securing event-driven file-processing workflows from attackers.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/488fee2baadda2c37c72db84004669bf)
+**Chapter Resources**: 
+
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/488fee2baadda2c37c72db84004669bf)
+- **GitHub Repository**: [cloud-run-html-to-pdf](https://github.com/learning-serverless-security/cloud-run-html-to-pdf)
 
 ## Chapter 10: Setting up Backdoors and Escalating Privileges in Google Cloud
 
