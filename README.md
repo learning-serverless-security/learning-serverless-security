@@ -29,7 +29,9 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 
 In this chapter, you'll explore how attackers can perform privilege escalation by using misconfigured AWS IAM roles. You'll also see how they might establish persistence by deploying a backdoored version of a Lambda function to regain access even after credentials are rotated or revoked.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/b17727f3b7a61ea2375a54efc99b1f86)
+**Chapter Resources**: 
+
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/b17727f3b7a61ea2375a54efc99b1f86)
 
 ## Chapter 6: Hacking Publicly Accessible AWS Lambda Functions
 
@@ -46,7 +48,8 @@ In this chapter, you will take a closer look at how attackers can exploit public
 
 In this chapter, you'll build on what you've learned and configure the Lambda function with a VPC with restrictive outbound access. You will also refactor the function code to eliminate the use of eval() to secure it against code injection attacks. As you dive deeper into the next chapter, you'll learn which security controls are effective and which ones fall short against the types of attacks leveraged by attackers in serverless applications.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/b64e27b3ae3b45fbad9684f50218c36d)
+**Chapter Resources**: 
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/b64e27b3ae3b45fbad9684f50218c36d)
 
 ## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
 
@@ -71,25 +74,29 @@ In this chapter, you’ll dive deeper into how attackers exploit misconfiguratio
 
 In this chapter, you will build on what you’ve learned by exploring how an attacker could exploit a vulnerable Cloud Run service, bypass restrictions, and set up a backdoor without relying on a reverse shell. You will also simulate privilege escalation in Google Cloud by abusing overly permissive service accounts tied to serverless compute resources.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/f3be4ec4e33abae6053f69f3ae41b126)
+**Chapter Resources**: 
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/f3be4ec4e33abae6053f69f3ae41b126)
 
 ## Chapter 11: Hacking and Securing Azure Functions
 
 In this chapter, you’ll shift your focus to Microsoft Azure and examine how attackers can exploit vulnerable Azure Functions. As you go through the simulations and hands-on examples, you’ll learn how to recognize various types of misconfigurations and secure them against potential threats.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/7b55190a065e175a9cf8f4df0d2ca88c)
+**Chapter Resources**: 
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/7b55190a065e175a9cf8f4df0d2ca88c)
 
 ## Chapter 12: Escalating Privileges in Microsoft Azure
 
 In this chapter, you will dive deep into privilege escalation in Azure by examining how an overly permissive managed identity tied to the vulnerable function app can be abused. You’ll simulate extracting the function app’s managed-identity access token, then use that token to escalate to Owner-level privileges and read secrets from Azure Key Vault.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/f1db55c6a67c2a69790f0df9ebab0412)
+**Chapter Resources**: 
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/f1db55c6a67c2a69790f0df9ebab0412)
 
 ## Chapter 13: Analyzing, Auditing, and Securing Serverless Application Code
 
 In this chapter, you will explore additional techniques and best practices to secure your serverless applications. You’ll learn how to leverage automated tools, secure coding practices, and custom scripts to further secure your applications against code injection, supply chain attacks, and other emerging threats.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
+**Chapter Resources**: 
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
 
 
 ## Get to Know the Author
