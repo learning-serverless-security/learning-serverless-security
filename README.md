@@ -2,6 +2,8 @@
 
 This is the code repository for the book *Learning Serverless Security*, published by O'Reilly.
 
+![Learning Serverless Security](book-cover.png)
+
 ## Chapter 1
 
 ## Chapter 2
