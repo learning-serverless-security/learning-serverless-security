@@ -52,7 +52,10 @@ In this chapter, you'll build on what you've learned and configure the Lambda fu
 
 In this chapter, you will shift your focus to Google Cloud and explore how attackers can exploit cloud storage bucket misconfigurations to expose or steal sensitive data. You will simulate scenarios such as dangling bucket takeovers and examine how lingering references to deleted buckets can be abused for malicious purposes. Finally, you will learn how to enforce secure bucket configurations by using IaC to minimize the risk of costly misconfigurations.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/8d68b9283896610f573fc38022da6cdc)
+**Chapter Resources**: 
+
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/8d68b9283896610f573fc38022da6cdc)
+- **Github Repository**: [misconfigured-cloud-storage-bucket](https://github.com/learning-serverless-security/misconfigured-cloud-storage-bucket)
 
 ## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
 
