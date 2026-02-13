@@ -22,8 +22,8 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 
 **Chapter Resources**: 
 
-- [Gist: chapter code & commands](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
-- [Github Repository: exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
+- **Github Repository**: [exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
 
 ## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
 
