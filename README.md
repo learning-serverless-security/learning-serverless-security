@@ -34,15 +34,27 @@ In this chapter, you'll build on what you've learned and configure the Lambda fu
 
 ## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
 
+In this chapter, you will shift your focus to Google Cloud and explore how attackers can exploit cloud storage bucket misconfigurations to expose or steal sensitive data. You will simulate scenarios such as dangling bucket takeovers and examine how lingering references to deleted buckets can be abused for malicious purposes. Finally, you will learn how to enforce secure bucket configurations by using IaC to minimize the risk of costly misconfigurations.
+
 ## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
+
+In this chapter, you’ll dive deeper into how attackers exploit misconfigurations and code injection vulnerabilities in event-driven file-processing applications in Google Cloud. You’ll also examine what works and what doesn’t when securing event-driven file-processing workflows from attackers.
 
 ## Chapter 10: Setting up Backdoors and Escalating Privileges in Google Cloud
 
+In this chapter, you will build on what you’ve learned by exploring how an attacker could exploit a vulnerable Cloud Run service, bypass restrictions, and set up a backdoor without relying on a reverse shell. You will also simulate privilege escalation in Google Cloud by abusing overly permissive service accounts tied to serverless compute resources.
+
 ## Chapter 11: Hacking and Securing Azure Functions
+
+In this chapter, you’ll shift your focus to Microsoft Azure and examine how attackers can exploit vulnerable Azure Functions. As you go through the simulations and hands-on examples, you’ll learn how to recognize various types of misconfigurations and secure them against potential threats.
 
 ## Chapter 12: Escalating Privileges in Microsoft Azure
 
+In this chapter, you will dive deep into privilege escalation in Azure by examining how an overly permissive managed identity tied to the vulnerable function app can be abused. You’ll simulate extracting the function app’s managed-identity access token, then use that token to escalate to Owner-level privileges and read secrets from Azure Key Vault.
+
 ## Chapter 13: Analyzing, Auditing, and Securing Serverless Application Code
+
+In this chapter, you will explore additional techniques and best practices to secure your serverless applications. You’ll learn how to leverage automated tools, secure coding practices, and custom scripts to further secure your applications against code injection, supply chain attacks, and other emerging threats.
 
 ## Get to Know the Author
 
