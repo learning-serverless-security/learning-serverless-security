@@ -6,6 +6,8 @@ This is the code repository for the book *Learning Serverless Security*, publish
 
 ## Chapter 1: Introduction to Serverless Computing
 
+In this chapter, you will learn what serverless is, along with other key concepts relevant to serverless architectures. You will explore scenarios where serverless makes the most sense and examine and debunk various myths and misconceptions associated with serverless computing. Toward the end of this introductory chapter, you will also discover that serverless applications are not immune to security threats and risks.
+
 ## Chapter 2: Understanding Serverless Architectures and Implementation Patterns
 
 ## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
