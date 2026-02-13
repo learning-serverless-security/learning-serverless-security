@@ -13,9 +13,25 @@ more about serverless security strategies and best practices.
 
 In this chapter, you will learn what serverless is, along with other key concepts relevant to serverless architectures. You will explore scenarios where serverless makes the most sense and examine and debunk various myths and misconceptions associated with serverless computing. Toward the end of this introductory chapter, you will also discover that serverless applications are not immune to security threats and risks.
 
+**Chapter Resources**:
+
+- **Link**: [Lambda Pricing Page](https://aws.amazon.com/lambda/pricing/)
+
+
 ## Chapter 2: Understanding Serverless Architectures and Implementation Patterns
 
 In this chapter, you will explore various cloud services and capabilities that enable the serverless operational model. You will dive deep into some of the most common building blocks, patterns, and solutions used in serverless architectures and review the relevant security considerations along the way.
+
+**Chapter Resources**:
+
+- **Link**: [Bringing serverless to Azure Kubernetes Service](https://azure.microsoft.com/en-us/blog/bringing-serverless-to-azure-kubernetes-service/)
+- **Link**: [Export data from Cloud SQL without performance overhead](https://cloud.google.com/blog/products/databases/introducing-cloud-sql-serverless-exports)
+- **Link**: [Serverless on AWS](https://aws.amazon.com/serverless/)
+- **Link**: [Serverless on Azure](https://azure.microsoft.com/en-us/solutions/serverless)
+- **Link**: [Cloud Functions is now Cloud Run functions](https://cloud.google.com/blog/products/serverless/google-cloud-functions-is-now-cloud-run-functions)
+- **Link**: [Serverless for Apache Spark overview](https://docs.cloud.google.com/dataproc-serverless/docs/overview#s8s-compared)
+- **Link**: [Go Serverless](https://cloud.google.com/solutions/serverless?hl=en)
+- **Link**: [Deploy models with Amazon SageMaker Serverless Inference - Container Support](https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints.html#serverless-endpoints-how-it-works-containers)
 
 ## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
 
