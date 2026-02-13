@@ -9,6 +9,15 @@ This book is for security engineers, cloud engineers, developers, security archi
 Despite the increased adoption of serverless computing, relatively few books and resources focus on the security of serverless applications and systems. With the opportunity to influence the future of technology, I decided to write this book to help the next generation of technology professionals build more-secure applications in the cloud. I hope that this book will be a useful resource for those interested in learning
 more about serverless security strategies and best practices.
 
+## What Readers Are Saying About This Book
+
+<div>
+  <img src="pq-01.png" alt="Quote" width="33%">
+  <img src="pq-02.png" alt="Quote" width="33%">
+  <img src="pq-03.png" alt="Quote" width="33%">
+</div>
+
+
 ## Chapter 1: Introduction to Serverless Computing
 
 In this chapter, you will learn what serverless is, along with other key concepts relevant to serverless architectures. You will explore scenarios where serverless makes the most sense and examine and debunk various myths and misconceptions associated with serverless computing. Toward the end of this introductory chapter, you will also discover that serverless applications are not immune to security threats and risks.
