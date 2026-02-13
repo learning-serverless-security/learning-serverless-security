@@ -12,9 +12,9 @@ more about serverless security strategies and best practices.
 ## What Readers Are Saying About This Book
 
 <div>
-  <img src="pq-01.png" alt="Quote" width="33%">
-  <img src="pq-02.png" alt="Quote" width="33%">
-  <img src="pq-03.png" alt="Quote" width="33%">
+  <img src="pq-01.png" alt="Quote" width="30%">
+  <img src="pq-02.png" alt="Quote" width="30%">
+  <img src="pq-03.png" alt="Quote" width="30%">
 </div>
 
 
@@ -161,6 +161,6 @@ He is an AWS AI Hero and has authored several other technical books including Ma
 
 ## Other books by the author
 
-<a href="https://www.packtpub.com/product/machine-learning-with-amazon-sagemaker-cookbook/9781800567030"><img src="https://static.packt-cdn.com/products/9781800567030/cover/smaller" alt="Book Name" width="25%" align="left"></a>
-<a href="https://www.packtpub.com/product/machine-learning-engineering-on-aws/9781803247595"><img src="https://static.packt-cdn.com/products/9781803247595/cover/smaller" alt="Book Name" width="25%" align="left"></a>
-<a href="https://www.packtpub.com/product/building-and-automating-penetration-testing-labs-in-the-cloud/9781837632398"><img src="https://static.packt-cdn.com/products/9781837632398/cover/smaller" alt="Book Name" width="25%" align="left"></a>
+<a href="https://www.packtpub.com/product/machine-learning-with-amazon-sagemaker-cookbook/9781800567030"><img src="https://static.packt-cdn.com/products/9781800567030/cover/smaller" alt="Book Name" width="30%"></a>
+<a href="https://www.packtpub.com/product/machine-learning-engineering-on-aws/9781803247595"><img src="https://static.packt-cdn.com/products/9781803247595/cover/smaller" alt="Book Name" width="30%"></a>
+<a href="https://www.packtpub.com/product/building-and-automating-penetration-testing-labs-in-the-cloud/9781837632398"><img src="https://static.packt-cdn.com/products/9781837632398/cover/smaller" alt="Book Name" width="30%"></a>
