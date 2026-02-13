@@ -4,6 +4,11 @@ This is the official GitHub account for the book *Learning Serverless Security*,
 
 ![Learning Serverless Security](book-cover.png)
 
+This book is for security engineers, cloud engineers, developers, security architects, and penetration testers responsible for managing, auditing, and securing their cloud infrastructure. This book is targeted toward professionals with experience using cloud services who are planning to dive deeper into cloud and serverless security. You are expected to have a good understanding of the concepts of cloud computing and security. Basic knowledge of serverless computing and the fundamental services of AWS, Google Cloud, and Azure will help. Knowledge or experience using security tools is optional.
+
+Despite the increased adoption of serverless computing, relatively few books and resources focus on the security of serverless applications and systems. With the opportunity to influence the future of technology, I decided to write this book to help the next generation of technology professionals build more-secure applications in the cloud. I hope that this book will be a useful resource for those interested in learning
+more about serverless security strategies and best practices.
+
 ## Chapter 1: Introduction to Serverless Computing
 
 In this chapter, you will learn what serverless is, along with other key concepts relevant to serverless architectures. You will explore scenarios where serverless makes the most sense and examine and debunk various myths and misconceptions associated with serverless computing. Toward the end of this introductory chapter, you will also discover that serverless applications are not immune to security threats and risks.
@@ -98,6 +103,15 @@ In this chapter, you will explore additional techniques and best practices to se
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
 
+## Acknowledgments
+
+Writing this book has been a truly rewarding experience, thanks to the unwavering support and invaluable feedback shared by many dedicated contributors.
+
+I would like to express my deepest gratitude to the reviewers who generously shared their time, expertise, and valuable input throughout the development of this book. Thank you to Adelen Festin, Raphael Jambalos, Sathiesh Veera, Anil Moka, and Wietse Venema. Your insightful comments and actionable feedback have been invaluable. 
+
+Special thanks to the O’Reilly team, including Simina Calin, Rita Fernando, Sara Hunter, Beth Kelly, Gregory Hyman, and Sharon Wilkey for your guidance, support, and attention to detail throughout the publishing process. Many others also played important roles in bringing this book to life, and I am truly grateful for their contributions.
+
+Thank you for being part of this journey and helping shape this book into what it is today.
 
 ## Get to Know the Author
 
