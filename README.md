@@ -37,7 +37,6 @@ In this chapter, you will explore various cloud services and capabilities that e
 - **Link**: [Create a Lambda function using a container image](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
 - **Link**: [Create your first containerized Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
 - **Link**: [Serverless Patterns Collection](https://serverlessland.com/patterns?services=apigw)
-- **Link**: [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
 
 ## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
 
@@ -45,6 +44,7 @@ In this chapter, you’ll dive deeper into serverless security threats and risks
 
 **Chapter Resources**:
 
+- **Link**: [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
 - **Link**: [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 - **Link**: [Account Takeover and Malicious Replacement of ctx Project](https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html)
 - **Link**: [Malware in pre-build binaries of bignum](https://github.com/advisories/GHSA-7cgc-fjv4-52x6)
