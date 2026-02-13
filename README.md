@@ -4,31 +4,31 @@ This is the code repository for the book *Learning Serverless Security*, publish
 
 ![Learning Serverless Security](book-cover.png)
 
-## Chapter 1 — Introduction to Serverless Computing
+## Chapter 1: Introduction to Serverless Computing
 
-## Chapter 2 — Understanding Serverless Architectures and Implementation Patterns
+## Chapter 2: Understanding Serverless Architectures and Implementation Patterns
 
-## Chapter 3 — Diving Deeper into Serverless Security Threats and Risks
+## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
 
-## Chapter 4 — Exploiting and Securing Exposed AWS IAM Credentials
+## Chapter 4: Exploiting and Securing Exposed AWS IAM Credentials
 
-## Chapter 5 — Exploiting and Securing Misconfigured AWS IAM Roles
+## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
 
-## Chapter 6 — Hacking Publicly Accessible AWS Lambda Functions
+## Chapter 6: Hacking Publicly Accessible AWS Lambda Functions
 
-## Chapter 7 — Running and Securing Serverless Functions in a VPC
+## Chapter 7: Running and Securing Serverless Functions in a VPC
 
-## Chapter 8 — Hacking and Securing Google Cloud Storage Buckets
+## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
 
-## Chapter 9 — Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
+## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
 
-## Chapter 10 — Setting up Backdoors and Escalating Privileges in Google Cloud
+## Chapter 10: Setting up Backdoors and Escalating Privileges in Google Cloud
 
-## Chapter 11 — Hacking and Securing Azure Functions
+## Chapter 11: Hacking and Securing Azure Functions
 
-## Chapter 12 — Escalating Privileges in Microsoft Azure
+## Chapter 12: Escalating Privileges in Microsoft Azure
 
-## Chapter 13 — Analyzing, Auditing, and Securing Serverless Application Code
+## Chapter 13: Analyzing, Auditing, and Securing Serverless Application Code
 
 ## Get to Know the Author
 
