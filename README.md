@@ -39,6 +39,7 @@ In this chapter, you will take a closer look at how attackers can exploit public
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/219fae2eb40b4c55bbf657eda7af100b)
 - **Github Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
+- **Github Repository**: [request-receiver](https://github.com/learning-serverless-security/request-receiver)
 
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
 
