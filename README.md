@@ -1,16 +1,29 @@
-## Hi there 👋
+# Learning Serverless Security
 
-<!--
-**learning-serverless-security/learning-serverless-security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the code repository for the book *Learning Serverless Security*, published by O'Reilly.
 
-Here are some ideas to get you started:
+## Chapter 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Chapter 2
+
+## Chapter 3
+
+## Chapter 4
+
+## Chapter 5
+
+## Chapter 6
+
+## Chapter 7
+
+## Chapter 8
+
+## Chapter 9
+
+## Chapter 10
+
+## Chapter 11
+
+## Chapter 12
+
+## Chapter 13
