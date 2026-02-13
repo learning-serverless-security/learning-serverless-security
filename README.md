@@ -47,6 +47,7 @@ In this chapter, you’ll dive deeper into serverless security threats and risks
 
 - **Link**: [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
 - **Link**: [Account Takeover and Malicious Replacement of ctx Project](https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html)
+- **Link**: [Malware in pre-build binaries of bignum](https://github.com/advisories/GHSA-7cgc-fjv4-52x6)
 
 ## Chapter 4: Exploiting and Securing Exposed AWS IAM Credentials
 
