@@ -25,8 +25,6 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 - [Gist: chapter code & commands](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
 - [Github Repository: exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
 
-https://github.com/learning-serverless-security/exposed-credentials-chat-example
-
 ## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
 
 In this chapter, you'll explore how attackers can perform privilege escalation by using misconfigured AWS IAM roles. You'll also see how they might establish persistence by deploying a backdoored version of a Lambda function to regain access even after credentials are rotated or revoked.
