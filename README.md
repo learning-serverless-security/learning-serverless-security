@@ -32,10 +32,21 @@ In this chapter, you will explore various cloud services and capabilities that e
 - **Link**: [Serverless for Apache Spark overview](https://docs.cloud.google.com/dataproc-serverless/docs/overview#s8s-compared)
 - **Link**: [Go Serverless](https://cloud.google.com/solutions/serverless?hl=en)
 - **Link**: [Deploy models with Amazon SageMaker Serverless Inference - Container Support](https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints.html#serverless-endpoints-how-it-works-containers)
+- **Link**: [Run your AI inference applications on Cloud Run with NVIDIA GPUs](https://cloud.google.com/blog/products/application-development/run-your-ai-inference-applications-on-cloud-run-with-nvidia-gpus)
+- **Link**: [Run Hugging Face transformers on GPU enabled Cloud Run functions](https://www.youtube.com/watch?v=nicwHD7M8l8)
+- **Link**: [Create a Lambda function using a container image](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
+- **Link**: [Create your first containerized Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
+- **Link**: [Serverless Patterns Collection](https://serverlessland.com/patterns?services=apigw)
+- **Link**: [OWASP Serverless Top 10](https://owasp.org/www-project-serverless-top-10/)
 
 ## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
 
 In this chapter, you’ll dive deeper into serverless security threats and risks and examine how these could lead to breaches and incidents. You will learn how attackers adapt their techniques to serverless implementation patterns and exploit vulnerabilities and misconfigurations in the building blocks and services used within serverless architectures.
+
+**Chapter Resources**:
+
+- **Link**: [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
+- **Link**: [Account Takeover and Malicious Replacement of ctx Project](https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html)
 
 ## Chapter 4: Exploiting and Securing Exposed AWS IAM Credentials
 
