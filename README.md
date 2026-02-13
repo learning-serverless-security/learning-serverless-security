@@ -38,9 +38,9 @@ In this chapter, you will take a closer look at how attackers can exploit public
 **Chapter Resources**: 
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/219fae2eb40b4c55bbf657eda7af100b)
-- **Github Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
-- **Github Repository**: [vulnerable-lambda-function-frontend](https://github.com/learning-serverless-security/vulnerable-lambda-function-frontend)
-- **Github Repository**: [request-receiver](https://github.com/learning-serverless-security/request-receiver)
+- **GitHub Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
+- **GitHub Repository**: [vulnerable-lambda-function-frontend](https://github.com/learning-serverless-security/vulnerable-lambda-function-frontend)
+- **GitHub Repository**: [request-receiver](https://github.com/learning-serverless-security/request-receiver)
 
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
 
@@ -55,7 +55,8 @@ In this chapter, you will shift your focus to Google Cloud and explore how attac
 **Chapter Resources**: 
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/8d68b9283896610f573fc38022da6cdc)
-- **Github Repository**: [misconfigured-cloud-storage-bucket](https://github.com/learning-serverless-security/misconfigured-cloud-storage-bucket)
+- **GitHub Repository**: [misconfigured-cloud-storage-bucket](https://github.com/learning-serverless-security/misconfigured-cloud-storage-bucket)
+- **GitHub Repository**: [bucket_iac](https://github.com/learning-serverless-security/bucket_iac)
 
 ## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
 
