@@ -35,7 +35,10 @@ In this chapter, you'll explore how attackers can perform privilege escalation b
 
 In this chapter, you will take a closer look at how attackers can exploit publicly exposed vulnerable Lambda functions. You'll experience the attacker’s perspective firsthand and execute arbitrary code to retrieve the source code of the compromised Lambda function, as well as exfiltrate credentials from within the serverless application. This will help you recognize security issues and misconfigurations before they can be exploited.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/219fae2eb40b4c55bbf657eda7af100b)
+**Chapter Resources**: 
+
+- **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/219fae2eb40b4c55bbf657eda7af100b)
+- **Github Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
 
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
 
