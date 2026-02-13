@@ -10,15 +10,27 @@ In this chapter, you will learn what serverless is, along with other key concept
 
 ## Chapter 2: Understanding Serverless Architectures and Implementation Patterns
 
+In this chapter, you will explore various cloud services and capabilities that enable the serverless operational model. You will dive deep into some of the most common building blocks, patterns, and solutions used in serverless architectures and review the relevant security considerations along the way.
+
 ## Chapter 3: Diving Deeper into Serverless Security Threats and Risks
+
+In this chapter, you’ll dive deeper into serverless security threats and risks and examine how these could lead to breaches and incidents. You will learn how attackers adapt their techniques to serverless implementation patterns and exploit vulnerabilities and misconfigurations in the building blocks and services used within serverless architectures.
 
 ## Chapter 4: Exploiting and Securing Exposed AWS IAM Credentials
 
+In this chapter, you will examine how attackers can exploit exposed IAM credentials in serverless applications. You will dive deep into how credentials in client-side code can be abused to gain full administrative access to an AWS account, how overly permissive IAM policies can be leveraged to disable AWS CloudTrail logging, and how backdoor IAM users can be created with just a few commands. Toward the end of the chapter, you will learn how to audit CloudTrail event data and Bedrock model invocation logs to investigate security incidents and understand how attacks unfold in a serverless application.
+
 ## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
+
+In this chapter, you'll explore how attackers can perform privilege escalation by using misconfigured AWS IAM roles. You'll also see how they might establish persistence by deploying a backdoored version of a Lambda function to regain access even after credentials are rotated or revoked.
 
 ## Chapter 6: Hacking Publicly Accessible AWS Lambda Functions
 
+In this chapter, you will take a closer look at how attackers can exploit publicly exposed vulnerable Lambda functions. You'll experience the attacker’s perspective firsthand and execute arbitrary code to retrieve the source code of the compromised Lambda function, as well as exfiltrate credentials from within the serverless application. This will help you recognize security issues and misconfigurations before they can be exploited.
+
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
+
+In this chapter, you'll build on what you've learned and configure the Lambda function with a VPC with restrictive outbound access. You will also refactor the function code to eliminate the use of eval() to secure it against code injection attacks. As you dive deeper into the next chapter, you'll learn which security controls are effective and which ones fall short against the types of attacks leveraged by attackers in serverless applications.
 
 ## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
 
