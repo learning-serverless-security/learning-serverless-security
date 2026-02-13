@@ -1,6 +1,6 @@
 # Learning Serverless Security
 
-This is the code repository for the book *Learning Serverless Security*, published by O'Reilly.
+This is the official GitHub account for the book *Learning Serverless Security*, published by O'Reilly Media. It contains multiple repositories referenced throughout the [book](https://learning.oreilly.com/library/view/learning-serverless-security/9781098149000/).
 
 ![Learning Serverless Security](book-cover.png)
 
