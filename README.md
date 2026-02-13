@@ -56,6 +56,9 @@ In this chapter, you will dive deep into privilege escalation in Azure by examin
 
 In this chapter, you will explore additional techniques and best practices to secure your serverless applications. You’ll learn how to leverage automated tools, secure coding practices, and custom scripts to further secure your applications against code injection, supply chain attacks, and other emerging threats.
 
+**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
+
+
 ## Get to Know the Author
 
 **Joshua Arvin Lat** is the Chief Technology Officer (CTO) of NuWorks Interactive Labs, Inc. He previously served as the CTO of three Australian-owned companies and as the Director for Software Development and Engineering for multiple ecommerce start-ups. Years ago, he and his team won first place in a global cybersecurity competition with their published research paper. He is an AWS AI Hero and has authored several other technical books including Machine Learning with Amazon SageMaker Cookbook, Machine Learning Engineering on AWS, and Building and Automating Penetration Testing Labs in the Cloud. Because of his proven track record in leading digital transformation within organizations, he has been recognized as one of the prestigious Orange Boomerang: Digital Leader of the Year 2023 award winners.
