@@ -20,7 +20,12 @@ In this chapter, you’ll dive deeper into serverless security threats and risks
 
 In this chapter, you will examine how attackers can exploit exposed IAM credentials in serverless applications. You will dive deep into how credentials in client-side code can be abused to gain full administrative access to an AWS account, how overly permissive IAM policies can be leveraged to disable AWS CloudTrail logging, and how backdoor IAM users can be created with just a few commands. Toward the end of the chapter, you will learn how to audit CloudTrail event data and Bedrock model invocation logs to investigate security incidents and understand how attacks unfold in a serverless application.
 
-**Chapter Code & Commands**: [View the Gist](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
+**Chapter Resources**: 
+
+- [Gist: chapter code & commands](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
+- [Github Repository: exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
+
+https://github.com/learning-serverless-security/exposed-credentials-chat-example
 
 ## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
 
