@@ -1,6 +1,6 @@
 # Learning Serverless Security
 
-This is the official GitHub account for the book *Learning Serverless Security*, published by O'Reilly Media. It contains multiple repositories referenced throughout the [book](https://www.oreilly.com/library/view/learning-serverless-security/9781098149000/).
+This is the official GitHub account for the book *Learning Serverless Security*, published by O'Reilly Media. It contains the [repositories](https://github.com/learning-serverless-security?tab=repositories) and [Gists](https://gist.github.com/learning-serverless-security) referenced throughout the [book](https://www.oreilly.com/library/view/learning-serverless-security/9781098149000/).
 
 ![Learning Serverless Security](book-cover.png)
 
