@@ -110,8 +110,6 @@ He is an AWS AI Hero and has authored several other technical books including Ma
 
 ## Other books by the author
 
-* [Machine Learning Engineering on AWS](https://www.packtpub.com/product/machine-learning-engineering-on-aws/9781803247595)
-
-* [Machine Learning with Amazon SageMaker Cookbook](https://www.packtpub.com/product/machine-learning-with-amazon-sagemaker-cookbook/9781800567030)
-  
-* [Building and Automating Penetration Testing Labs in the Cloud](https://www.packtpub.com/product/building-and-automating-penetration-testing-labs-in-the-cloud/9781837632398)
+<a href="https://www.packtpub.com/product/machine-learning-engineering-on-aws/9781803247595"><img src="https://static.packt-cdn.com/products/9781803247595/cover/smaller" alt="Book Name" width="30%" align="left"></a>
+<a href="https://www.packtpub.com/product/machine-learning-with-amazon-sagemaker-cookbook/9781800567030"><img src="https://static.packt-cdn.com/products/9781800567030/cover/smaller" alt="Book Name" width="30%" align="left"></a>
+<a href="https://www.packtpub.com/product/building-and-automating-penetration-testing-labs-in-the-cloud/9781837632398"><img src="https://static.packt-cdn.com/products/9781837632398/cover/smaller" alt="Book Name" width="30%" align="left"></a>
