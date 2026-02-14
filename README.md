@@ -66,6 +66,16 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/0473eb5e8ca1017c0b95935ad70a46e6)
 - **Github Repository**: [exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
+- **Link**: [AWS Free Tier](https://aws.amazon.com/free/)
+- **Link**: [Access Amazon Bedrock foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
+- **Link**: [AWS re:Inforce 2023 - A first-principles approach: AWS Identity and Access Management (IAM) (IAM201)](https://www.youtube.com/watch?v=z-tbVVojMp0)
+- **Link**: [AWS Customer Support Policy for Penetration Testing](https://aws.amazon.com/security/penetration-testing/)
+- **Link**: [DDoS Simulation Testing Policy](https://aws.amazon.com/security/ddos-simulation-testing/)
+- **Link**: [AWS Management Console](console.aws.amazon.com/console/home)
+- **Link**: [Locking objects with Object Lock](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
+- **Link**: [Set an account password policy for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html)
+- **Gist**: [input.json](https://gist.github.com/learning-serverless-security/2d70784751dedaf23cd7d8e220291b4a)
+- **Gist**: [auditing-logs.md](https://gist.github.com/learning-serverless-security/77a403d2f19182f818ed781778599de2)
 
 ## Chapter 5: Exploiting and Securing Misconfigured AWS IAM Roles
 
@@ -74,6 +84,12 @@ In this chapter, you'll explore how attackers can perform privilege escalation b
 **Chapter Resources**: 
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/b17727f3b7a61ea2375a54efc99b1f86)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
 
 ## Chapter 6: Hacking Publicly Accessible AWS Lambda Functions
 
@@ -85,6 +101,13 @@ In this chapter, you will take a closer look at how attackers can exploit public
 - **GitHub Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
 - **GitHub Repository**: [vulnerable-lambda-function-frontend](https://github.com/learning-serverless-security/vulnerable-lambda-function-frontend)
 - **GitHub Repository**: [request-receiver](https://github.com/learning-serverless-security/request-receiver)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
 
@@ -92,6 +115,13 @@ In this chapter, you'll build on what you've learned and configure the Lambda fu
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/b64e27b3ae3b45fbad9684f50218c36d)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
 
@@ -102,6 +132,13 @@ In this chapter, you will shift your focus to Google Cloud and explore how attac
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/8d68b9283896610f573fc38022da6cdc)
 - **GitHub Repository**: [misconfigured-cloud-storage-bucket](https://github.com/learning-serverless-security/misconfigured-cloud-storage-bucket)
 - **GitHub Repository**: [bucket_iac](https://github.com/learning-serverless-security/bucket_iac)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
 
@@ -111,6 +148,13 @@ In this chapter, you’ll dive deeper into how attackers exploit misconfiguratio
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/488fee2baadda2c37c72db84004669bf)
 - **GitHub Repository**: [cloud-run-html-to-pdf](https://github.com/learning-serverless-security/cloud-run-html-to-pdf)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 10: Setting up Backdoors and Escalating Privileges in Google Cloud
 
@@ -118,6 +162,13 @@ In this chapter, you will build on what you’ve learned by exploring how an att
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/f3be4ec4e33abae6053f69f3ae41b126)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 11: Hacking and Securing Azure Functions
 
@@ -125,6 +176,13 @@ In this chapter, you’ll shift your focus to Microsoft Azure and examine how at
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/7b55190a065e175a9cf8f4df0d2ca88c)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 12: Escalating Privileges in Microsoft Azure
 
@@ -132,6 +190,13 @@ In this chapter, you will dive deep into privilege escalation in Azure by examin
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/f1db55c6a67c2a69790f0df9ebab0412)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Chapter 13: Analyzing, Auditing, and Securing Serverless Application Code
 
@@ -139,6 +204,13 @@ In this chapter, you will explore additional techniques and best practices to se
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+- **Link**: []()
+
 
 ## Acknowledgments
 
