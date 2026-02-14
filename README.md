@@ -42,7 +42,7 @@ In this chapter, you will explore various cloud services and capabilities that e
 - **Link**: [Go Serverless](https://cloud.google.com/solutions/serverless?hl=en)
 - **Link**: [Deploy models with Amazon SageMaker Serverless Inference - Container Support](https://docs.aws.amazon.com/sagemaker/latest/dg/serverless-endpoints.html#serverless-endpoints-how-it-works-containers)
 - **Link**: [Run your AI inference applications on Cloud Run with NVIDIA GPUs](https://cloud.google.com/blog/products/application-development/run-your-ai-inference-applications-on-cloud-run-with-nvidia-gpus)
-- **Link**: [Run Hugging Face transformers on GPU enabled Cloud Run functions](https://www.youtube.com/watch?v=nicwHD7M8l8)
+- **Video**: [Run Hugging Face transformers on GPU enabled Cloud Run functions](https://www.youtube.com/watch?v=nicwHD7M8l8)
 - **Link**: [Create a Lambda function using a container image](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
 - **Link**: [Create your first containerized Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container)
 - **Link**: [Serverless Patterns Collection](https://serverlessland.com/patterns?services=apigw)
@@ -68,7 +68,7 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 - **Github Repository**: [exposed-credentials-chat-example](https://github.com/learning-serverless-security/exposed-credentials-chat-example)
 - **Link**: [AWS Free Tier](https://aws.amazon.com/free/)
 - **Link**: [Access Amazon Bedrock foundation models](https://docs.aws.amazon.com/bedrock/latest/userguide/model-access.html)
-- **Link**: [AWS re:Inforce 2023 - A first-principles approach: AWS Identity and Access Management (IAM) (IAM201)](https://www.youtube.com/watch?v=z-tbVVojMp0)
+- **Video**: [AWS re:Inforce 2023 - A first-principles approach: AWS Identity and Access Management (IAM) (IAM201)](https://www.youtube.com/watch?v=z-tbVVojMp0)
 - **Link**: [AWS Customer Support Policy for Penetration Testing](https://aws.amazon.com/security/penetration-testing/)
 - **Link**: [DDoS Simulation Testing Policy](https://aws.amazon.com/security/ddos-simulation-testing/)
 - **Link**: [AWS Management Console](console.aws.amazon.com/console/home)
@@ -114,12 +114,10 @@ In this chapter, you'll build on what you've learned and configure the Lambda fu
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands (ch07.md)](https://gist.github.com/learning-serverless-security/b64e27b3ae3b45fbad9684f50218c36d)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
+- **Video**: [AWS re:Invent 2023 - I didn’t know Amazon API Gateway did that (SVS323)](https://www.youtube.com/watch?v=SlWJCTrMLOA)
+- **Code**: [vulnerable-lambda-function-backend/v4/lambda_function.py](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend/blob/main/v4/lambda_function.py)
+- **Link**: [Amazon API Gateway | Security in Amazon API Gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/security.html)
+- **Code**: [vulnerable-lambda-function-backend/v5/lambda_function.py](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend/blob/main/v5/lambda_function.py)
 
 
 ## Chapter 8: Hacking and Securing Google Cloud Storage Buckets
