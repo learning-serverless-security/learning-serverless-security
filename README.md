@@ -129,13 +129,14 @@ In this chapter, you will shift your focus to Google Cloud and explore how attac
 - **Gist**: [Chapter code & commands (ch08.md)](https://gist.github.com/learning-serverless-security/8d68b9283896610f573fc38022da6cdc)
 - **GitHub Repository**: [misconfigured-cloud-storage-bucket](https://github.com/learning-serverless-security/misconfigured-cloud-storage-bucket)
 - **GitHub Repository**: [bucket_iac](https://github.com/learning-serverless-security/bucket_iac)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
+- **Link**: [Google Cloud Free Tier](https://cloud.google.com/free)
+- **Link**: [Google Cloud | Cloud Security FAQ](https://support.google.com/cloud/answer/6262505?hl=en)
+- **Link**: [Google Cloud Acceptable Use Policy](https://cloud.google.com/terms/aup?hl=en)
+- **Link**: [Google Cloud Terms of Service](https://cloud.google.com/terms)
+- **Link**: [IAM principals | all-authenticated-users](https://docs.cloud.google.com/iam/docs/principals-overview#all-authenticated-users)
+- **Link**: [Google Cloud Console](https://console.cloud.google.com/)
+- **Gist**: [installer.sh](https://gist.github.com/learning-serverless-security/3d36905060d744256d630c5e2c1724eb)
+- **Link**: [HashiCorp Licensing FAQ](https://www.hashicorp.com/en/license-faq)
 
 ## Chapter 9: Abusing Google Cloud Storage Event Triggers with Malicious File Uploads
 
