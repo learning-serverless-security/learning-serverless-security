@@ -179,13 +179,6 @@ In this chapter, you will dive deep into privilege escalation in Azure by examin
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands (ch12.md)](https://gist.github.com/learning-serverless-security/f1db55c6a67c2a69790f0df9ebab0412)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
 
 ## Chapter 13: Analyzing, Auditing, and Securing Serverless Application Code
 
@@ -193,13 +186,12 @@ In this chapter, you will explore additional techniques and best practices to se
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands (ch13.md)](https://gist.github.com/learning-serverless-security/ba892f00ce67dd5748af7f5c3ef1ace8)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
+- **Link**: [JavaScript Expression Evaluator (expr-eval)](https://github.com/silentmatt/expr-eval)
+- **Link**: [GitHub Advisory Database | #6099](https://github.com/github/advisory-database/issues/6099)
+- **Link**: [debug | Version 4.4.2 published to npm is compromised](https://github.com/debug-js/debug/issues/1005#issuecomment-3266868187)
+- **Link**: [Pry](https://github.com/pry/pry)
+- **Gist**: [bad_versions.json](https://gist.github.com/learning-serverless-security/abf1bc3aee5a4eec69c40fe201d8c29f)
+- **Link**: [GitHub Advisory Database | CVE-2025-12735](https://github.com/advisories/GHSA-jc85-fpwf-qm7x)
 
 ## Acknowledgments
 
