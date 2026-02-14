@@ -1,6 +1,6 @@
-# Learning Serverless Security
+# Learning Serverless Security: Hacking and Securing Serverless Cloud Applications on AWS, Azure, and Google Cloud
 
-This is the official GitHub account for the book *Learning Serverless Security*, published by O'Reilly Media. It contains the [repositories](https://github.com/learning-serverless-security?tab=repositories) and [gists](https://gist.github.com/learning-serverless-security) referenced throughout the [book](https://www.oreilly.com/library/view/learning-serverless-security/9781098149000/).
+Welcome to the official GitHub account for *Learning Serverless Security* by [Joshua Arvin Lat](https://www.amazon.com/author/arvs), published by O'Reilly Media. Here you'll find the repositories and Gists referenced throughout the [book](https://www.oreilly.com/library/view/learning-serverless-security/9781098149000/).
 
 ![Learning Serverless Security](book-cover.png)
 
