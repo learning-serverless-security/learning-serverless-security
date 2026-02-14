@@ -154,13 +154,9 @@ In this chapter, you will build on what you’ve learned by exploring how an att
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands (ch10.md)](https://gist.github.com/learning-serverless-security/f3be4ec4e33abae6053f69f3ae41b126)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
+- **Gist**: [remove_iam_policy_binding.sh](https://gist.github.com/learning-serverless-security/22e480811dab8970cab35ffcd4c30cc1)
+- **Link**: [GitHub | Sign up](https://github.com/signup)
+- **Link**: [Google Cloud API Keys| Access control with IAM](https://docs.cloud.google.com/api-keys/docs/access-control)
 
 ## Chapter 11: Hacking and Securing Azure Functions
 
