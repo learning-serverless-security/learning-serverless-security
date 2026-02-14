@@ -146,13 +146,7 @@ In this chapter, you’ll dive deeper into how attackers exploit misconfiguratio
 
 - **Gist**: [Chapter code & commands (ch09.md)](https://gist.github.com/learning-serverless-security/488fee2baadda2c37c72db84004669bf)
 - **GitHub Repository**: [cloud-run-html-to-pdf](https://github.com/learning-serverless-security/cloud-run-html-to-pdf)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
+- **Link**: [Google Cloud Console](https://console.cloud.google.com/)
 
 ## Chapter 10: Setting up Backdoors and Escalating Privileges in Google Cloud
 
