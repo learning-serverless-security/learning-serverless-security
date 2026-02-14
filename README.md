@@ -103,9 +103,9 @@ In this chapter, you will take a closer look at how attackers can exploit public
 - **Code**: [vulnerable-lambda-function-frontend/index.html](https://github.com/learning-serverless-security/vulnerable-lambda-function-frontend/blob/main/index.html#L98)
 - **Link**: [Amazon S3 | Website endpoints](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteEndpoints.html)
 - **Code**: [vulnerable-lambda-function-backend/v2/lambda_function.py](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend/blob/main/v2/lambda_function.py)
-- **Link**: [request-receiver/requirements.txt](https://github.com/learning-serverless-security/request-receiver/blob/main/requirements.txt)
-- **Link**: [request-receiver/app.py](https://github.com/learning-serverless-security/request-receiver/blob/main/app.py)
-- **Link**: [vulnerable-lambda-function-backend/v3/lambda_function.py](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend/blob/main/v3/lambda_function.py)
+- **Code**: [request-receiver/requirements.txt](https://github.com/learning-serverless-security/request-receiver/blob/main/requirements.txt)
+- **Code**: [request-receiver/app.py](https://github.com/learning-serverless-security/request-receiver/blob/main/app.py)
+- **Code**: [vulnerable-lambda-function-backend/v3/lambda_function.py](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend/blob/main/v3/lambda_function.py)
 
 
 ## Chapter 7: Running and Securing Serverless Functions in a VPC
