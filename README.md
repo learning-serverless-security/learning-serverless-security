@@ -164,13 +164,14 @@ In this chapter, you’ll shift your focus to Microsoft Azure and examine how at
 
 **Chapter Resources**: 
 - **Gist**: [Chapter code & commands (ch11.md)](https://gist.github.com/learning-serverless-security/7b55190a065e175a9cf8f4df0d2ca88c)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-
+- **Link**: [Microsoft Security Testing Rules of Engagement](https://www.microsoft.com/en-us/msrc/pentest-rules-of-engagement)
+- **Link**: [Azure | Penetration Testing](https://learn.microsoft.com/en-us/azure/security/fundamentals/pen-testing)
+- **Link**: [Azure | Architecture Strategies for Security Testing](https://learn.microsoft.com/en-us/azure/well-architected/security/test)
+- **Link**: [Microsoft Azure CLI (azure-cli) GitHub repository](https://github.com/Azure/azure-cli)
+- **Link**: [Azure | Resolve errors for resource provider registration](https://learn.microsoft.com/en-us/azure/azure-resource-manager/troubleshooting/error-register-resource-provider?tabs=azure-cli)
+- **Link**: [Azure Functions runtime versions overview](https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions)
+- **Link**: [Azure role-based access control (Azure RBAC) vs. access policies (legacy)](https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-access-policy)
+- **Link**: [Azure | Provide access to Key Vault keys, certificates, and secrets with Azure role-based access control](https://learn.microsoft.com/en-us/azure/key-vault/general/rbac-guide?tabs=azure-cli)
 
 ## Chapter 12: Escalating Privileges in Microsoft Azure
 
