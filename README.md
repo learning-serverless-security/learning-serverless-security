@@ -73,6 +73,7 @@ In this chapter, you will examine how attackers can exploit exposed IAM credenti
 - **Link**: [DDoS Simulation Testing Policy](https://aws.amazon.com/security/ddos-simulation-testing/)
 - **Link**: [AWS Management Console](console.aws.amazon.com/console/home)
 - **Link**: [Locking objects with Object Lock](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lock.html)
+- **Link**: [start-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-logging.html)
 - **Link**: [Set an account password policy for IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_passwords_account-policy.html)
 - **Gist**: [input.json](https://gist.github.com/learning-serverless-security/2d70784751dedaf23cd7d8e220291b4a)
 - **Gist**: [auditing-logs.md](https://gist.github.com/learning-serverless-security/77a403d2f19182f818ed781778599de2)
