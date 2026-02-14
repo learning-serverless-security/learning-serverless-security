@@ -9,6 +9,10 @@ This book is for security engineers, cloud engineers, developers, security archi
 Despite the increased adoption of serverless computing, relatively few books and resources focus on the security of serverless applications and systems. With the opportunity to influence the future of technology, I decided to write this book to help the next generation of technology professionals build more-secure applications in the cloud. I hope that this book will be a useful resource for those interested in learning
 more about serverless security strategies and best practices.
 
+## Where to Get Your Copy
+
+You can secure your copy of *Learning Serverless Security* from major online retailers such as [Amazon](https://amazon.com/author/arvs) or directly from the publisher, [O'Reilly](https://www.oreilly.com/library/view/learning-serverless-security/9781098149000/). Choose the format that works best for you. 🙏
+
 ## What Readers Are Saying About This Book
 
 <div>
@@ -16,7 +20,6 @@ more about serverless security strategies and best practices.
   <img src="pq-02.png" alt="Quote" width="30%">
   <img src="pq-03.png" alt="Quote" width="30%">
 </div>
-
 
 ## Chapter 1: Introduction to Serverless Computing
 
