@@ -86,12 +86,8 @@ In this chapter, you'll explore how attackers can perform privilege escalation b
 **Chapter Resources**: 
 
 - **Gist**: [Chapter code & commands](https://gist.github.com/learning-serverless-security/b17727f3b7a61ea2375a54efc99b1f86)
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
-- **Link**: []()
+- **Link**: [AWS Management Console](console.aws.amazon.com/console/home)
+- **Gist**: [lambda_function.py](https://gist.github.com/learning-serverless-security/ea63ad2fd85669155d79a17c5c55f6c5)
 
 ## Chapter 6: Hacking Publicly Accessible AWS Lambda Functions
 
@@ -103,7 +99,7 @@ In this chapter, you will take a closer look at how attackers can exploit public
 - **GitHub Repository**: [vulnerable-lambda-function-backend](https://github.com/learning-serverless-security/vulnerable-lambda-function-backend)
 - **GitHub Repository**: [vulnerable-lambda-function-frontend](https://github.com/learning-serverless-security/vulnerable-lambda-function-frontend)
 - **GitHub Repository**: [request-receiver](https://github.com/learning-serverless-security/request-receiver)
-- **Link**: []()
+- **Link**: [AWS Management Console](console.aws.amazon.com/console/home)
 - **Link**: []()
 - **Link**: []()
 - **Link**: []()
